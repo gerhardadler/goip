@@ -1,0 +1,11 @@
+{
+    "providers": {
+        "zadarma": [
+            {
+                "username": "187188@sip.zadarma.com",
+                "password": "GerDitOdalsvegen300Ja"
+            }
+        ]
+    },
+    "callback_url": "test"
+}
